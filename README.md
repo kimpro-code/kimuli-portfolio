@@ -13,7 +13,7 @@ This repository contains my personal portfolio website for the portfolio assignm
 
 Replace this line with the final GitHub Pages URL:
 
-`https://kimpro-code.github.io/iut-portfolio/`
+`https://kimpro-code.github.io/kimuli-portfolio/`
 
 ## Required contact information
 

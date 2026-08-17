@@ -13,7 +13,7 @@ This repository contains my personal portfolio website for the portfolio assignm
 
 Replace this line with the final GitHub Pages URL:
 
-`https://YOUR-GITHUB-USERNAME.github.io/iut-portfolio/`
+`https://kimpro-code.github.io/iut-portfolio/`
 
 ## Required contact information
 
@@ -43,10 +43,3 @@ HTML5, CSS3, JavaScript, Java SDK 21, JavaFX, Scene Builder, Eclipse, MySQL, C, 
 
 The site is intentionally extensible so that additional projects, research, technical writing, academic achievements and interests can be added in future semesters.
 
-## AI disclosure
-
-See `AI_USAGE.md` for the AI tool disclosure and a transparent prompt-history record.
-
-## Submission checklist
-
-See `SUBMISSION_CHECKLIST.md` before submitting the assignment.

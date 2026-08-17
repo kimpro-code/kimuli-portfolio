@@ -11,9 +11,9 @@ This repository contains my personal portfolio website for the portfolio assignm
 
 ## Live website
 
-Replace this line with the final GitHub Pages URL:
+GitHub Pages URL:
 
-`https://kimpro-code.github.io/kimuli-portfolio/`
+https://kimpro-code.github.io/kimuli-portfolio/
 
 ## Required contact information
 
